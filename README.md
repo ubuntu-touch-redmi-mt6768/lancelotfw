@@ -1,4 +1,4 @@
-Ubuntu Touch for miatoll is based on Halium 10 and Android 10 Ubuntu Touch rootfs so it requires an Android 10 base firmware before it can be flashed on your phone.
+Ubuntu Touch for lancelot is based on Halium 10 and Android 10 Ubuntu Touch rootfs so it requires an Android 10 base firmware before it can be flashed on your phone.
 While custom ROMs like LineageOS 17.1 might work, they are untested and not recommended. Instead, use one of the MIUI Android 10 based firmware from below.
 
 
